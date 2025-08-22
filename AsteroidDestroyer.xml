@@ -17,7 +17,7 @@
   <classPath>
     <mainClass>com.example.asteroiddestroyer.Game</mainClass>
   </classPath>
-  <jre>
+  <jre> 
     <path>%JAVA_HOME%;%PATH%</path>
     <requiresJdk>false</requiresJdk>
     <requires64Bit>false</requires64Bit>
